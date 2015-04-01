@@ -17,7 +17,7 @@ The first pages should be about [Traffic Conflicts](conflict.md) and [Time-to-Co
 
 The source is written in markdown to be converted by [pandoc](http://johnmacfarlane.net/pandoc/) into different formats, primarily the [wiki](https://github.com/nsaunier/WikiSMoS/wiki) on this same project.
 
-The publications are stored in a main [bibtex file](ssmos.bib).
+The publications are stored in a main [bibtex file](smos.bib).
 
 ## License
 
