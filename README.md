@@ -1,6 +1,6 @@
 # Surrogate Measures of Safety Wiki
 
-## Introduction
+## Short Introduction
 
 This wiki is meant as a comprehensive and ressource on surrogate measures of safety that should be as much as possible up to date with the literature. 
 
@@ -10,6 +10,8 @@ It is centered around the measures themselves, each as a wiki page, with the fol
 - the method(s) to calculate them,
 - their application(s),
 - the publications where the above is described.
+
+The first pages should be about [Traffic Conflicts](conflict.md) and [Time-to-Collision](ttc.md).
 
 ## Technical Details
 
