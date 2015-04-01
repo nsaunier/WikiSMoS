@@ -5,7 +5,7 @@ do
 done
 #cp smos.bib ../WikiSMoS.wiki/
 cd ../WikiSMoS.wiki/
-sed 's/.md//' README.md > Home.md
+#sed 's/.md//' README.md > Home.md
 rm README.md
-git commit -m 'generated new wiki'
+git commit -a -m 'generated new wiki'
 git push

@@ -11,13 +11,10 @@ It is centered around the measures themselves, each as a wiki page, with the fol
 - their application(s),
 - the publications where the above is described.
 
-See main output: the [wiki](https://github.com/nsaunier/WikiSMoS/wiki).
+The first pages are the following:
 
-## Technical Details
-
-The source is written in markdown to be converted by [pandoc](http://johnmacfarlane.net/pandoc/) into different formats, primarily the [wiki](https://github.com/nsaunier/WikiSMoS/wiki) on this same project, using a simple [script](generate-wiki.sh). 
-
-The publications are stored in a main [bibtex file](smos.bib).
+- [Traffic Conflicts](conflict)
+- [Time-to-Collision](ttc)
 
 ## License
 
