@@ -11,7 +11,7 @@ It is centered around the measures themselves, each as a wiki page, with the fol
 - their application(s),
 - the publications where the above is described.
 
-See main output: the [wiki](https://github.com/nsaunier/WikiSMoS/wiki).
+See main output: the [wiki](http://github.com/nsaunier/WikiSMoS/wiki/Surrogate Measures of Safety Wiki).
 
 ## Technical Details
 

@@ -2,14 +2,14 @@
 title: Time to Collision
 bibliography: smos.bib
 ---  
-# Time to Collision
+# Introduction
 
 The most common surrogate measures of safety is the time to collision (TTC). It is used for example in [@ismail10application; @laureshyn10thesis].
 
-## Definition
+# Definition
 
-## Measurement Method
+# Measurement Method
 
-## Applications
+# Applications
 
-## References
+# References
